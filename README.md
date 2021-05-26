@@ -1,3 +1,3 @@
-# team_work_st
-Проект по созданию веб ресурса с back-end частью на Django и front-end частью на Svelte JS
-2 команды
+# Создание веб ресурса с Front-end частью и Back-end частью
+Python Django 3.2.3
+HTML 5 и CSS 3
